@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaPedroWeb2", "ProvaPedroWeb2\ProvaPedroWeb2.csproj", "{FAC9D622-7C86-49F3-ACC4-F052CC82C574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC9D622-7C86-49F3-ACC4-F052CC82C574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC9D622-7C86-49F3-ACC4-F052CC82C574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC9D622-7C86-49F3-ACC4-F052CC82C574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC9D622-7C86-49F3-ACC4-F052CC82C574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7193382-0A2C-45B7-9FE4-E9408938AF30}
+	EndGlobalSection
+EndGlobal
